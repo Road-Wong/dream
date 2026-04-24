@@ -312,20 +312,3 @@ DREAM's OCAP framework is designed for **structural plug-ins**: add a new cost t
 | $\boldsymbol{st}$ | Start-time vector (bold-lowercase = vector, per IEEE convention) |
 | $\boldsymbol{u'}$ | Hypothetical utilization vector |
 
----
-
-## Citation
-
-<!-- If you use DREAM in your research, please cite:
-
-```bibtex
-@article{dream2025tccn,
-  title={DREAM: A Dynamic Ripple-Effect-Aware Meta-Scheduling Scheme for Cloud-Edge-End Collaborative AI Computing},
-  author={Wang, Chenlu and Peng, Yuhuai and Liu, Lei and Sun, Geng and Dong, Mianxiong and Hu, Jiangang and Mumtaz, Shahid},
-  journal={IEEE Transactions on Cloud Computing},
-  year={2025}
-}
-``` -->
-
-> **Note**: Source code and reproducibility scripts will be made publicly available upon paper acceptance.
-
